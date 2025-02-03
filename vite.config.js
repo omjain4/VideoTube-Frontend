@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      "/api": "",
+      "/api": "https://chai-backend-wk5c.onrender.com/api/v1",
     },
   },
 });
