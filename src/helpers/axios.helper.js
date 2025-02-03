@@ -3,7 +3,7 @@ import axios from "axios";
 // import "axios-progress-bar/dist/nprogress.css";
 
 
-const baseURL = "https://tweettube.onrender.com/api/v1/";
+const baseURL = "https://chai-backend-wk5c.onrender.com/api/v1/";
 
 export const axiosInstance = axios.create({
   baseURL,
