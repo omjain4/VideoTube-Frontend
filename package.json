@@ -1,0 +1,20 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000V\u0000i\u0000d\u0000e\u0000o\u0000T\u0000u\u0000b\u0000e\u0000 \u0000F\u0000r\u0000o\u0000n\u0000t\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000#\u0000 \u0000V\u0000i\u0000d\u0000e\u0000o\u0000T\u0000u\u0000b\u0000e\u0000-\u0000F\u0000r\u0000o\u0000n\u0000t\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/omjain4/VideoTube-Frontend#readme",
+  "bugs": {
+    "url": "https://github.com/omjain4/VideoTube-Frontend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omjain4/VideoTube-Frontend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
